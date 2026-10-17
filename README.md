@@ -1,61 +1,49 @@
-# <p align="center">🌌 Uriel Nexus Institute</p>
+ # <p align="center">🌌 Uriel Nexus Institute</p>
 <p align="center">
-  <b>Deterministic Vacuum Mechanics • Radiocentric Geometry • Non-Stochastic Field Dynamics</b>
+  <b>Antoniou Universal Framework (AUF) • Ακτινοκεντρική Γεωμετρία & Άλγεβρα (CEG) • Ντετερμινιστική Μηχανική Κενού</b>
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/ORCID-0009--0008--0927--5007-a6ce39?style=flat-square&logo=orcid&logoColor=white" alt="ORCID">
   <img src="https://img.shields.io/badge/Framework-Antoniou%20Universal%20Framework-blueviolet?style=flat-square" alt="AUF">
   <img src="https://img.shields.io/badge/Architecture-Uriel%20Nexus%20Core-orange?style=flat-square" alt="Uriel Nexus">
-  <img src="https://img.shields.io/badge/Status-Active%20Research-success?style=flat-square" alt="Status">
+  <img src="https://img.shields.io/badge/Status-Master%20Dossier%20%26%20Patents-success?style=flat-square" alt="Status">
 </p>
 
 ---
 
-## 🏛️ Σχετικά με το Ινστιτούτο
+## 🏛️ 1. Θεσμική Ταυτότητα & Φιλοσοφία του Ινστιτούτου
 
-Το **Uriel Nexus Institute** αποτελεί έναν ανεξάρτητο, αυτοδίδακτο ερευνητικό πυρήνα αφιερωμένο στην αντικατάσταση των στοχαστικών και πιθανοτικών προσεγγίσεων της κλασικής φυσικής/κβαντικής θεωρίας με ακριβείς, ντετερμινιστικές μεθόδους συνεχούς μηχανικής, πεδιακής δυναμικής και γεωμετρικών δομών. 
+Το **Uriel Nexus Institute** αποτελεί έναν ανεξάρτητο, αυτοδίδακτο ερευνητικό πυρήνα υψηλής ακρίβειας, ιδρυτής, εμπνευστής και κύριος αρχιτέκτονας του οποίου είναι ο **Ελευθέριος Κ. Αντωνίου** (Γεννημένος στις 16 Σεπτεμβρίου 1982 στο Χάρισμπουργκ της Πενσυλβάνια, ΗΠΑ). 
 
-Ιδρυτής και κύριος αρχιτέκτονας του ινστιτούτου είναι ο **Ελευθέριος Κ. Αντωνίου**.
-
----
-
-## 🔬 Κεντρικοί Ερευνητικοί Τομείς
-
-* **Ακτινοκεντρική Γεωμετρία & Άλγεβρα (CEG):** Ανάπτυξη μετρικών τανυστών, τελεστών Laplace και γεωμετρικών μοντέλων πεδίου χωρίς τυχαίες αποκλίσεις (βλ. μονογραφία *ΑΚΤΙΝΟΚΕΝΤΡΙΚΗ ΓΕΩΜΕΤΡΙΑ ΚΑΙ ΑΛΓΕΒΡΑ*).
-* **Topological Information Knots (TIK v2.0):** Μελέτη τοπολογικών κόμβων πληροφορίας και ροών μη ισορροπημένης συνεχούς μηχανικής σε χαοτικά ρευστά.
-* **Uriel Nexus Execution Architecture:** Συστήματα ασφαλείας, πρωτόκολλα μηδενικής εμπιστοσύνης (zero-trust), επαλήθευση HMAC SHA3-256 και αυτόνομα τοπικά υποστηριζόμενοι πράκτορες τεχνητής νοημοσύνης (Έχετλεος, Τάλως, Ύδρα, Κέρβερος).
-* **Universal Topological Gauge Fluidity (MasterUTGFEngine):** Συνδυασμός ολογραφικής κρίσιμης ρευστότητας και μη αβεβαιων πεδίων βαθμίδας.
+Το ινστιτούτο εδράζεται στην πλήρη και αδιαπραγμάτευτη απόρριψη των στοχαστικών, πιθανοτικών και αβεβαιων προσεγγίσεων της κλασικής και κβαντικής φυσικής. Αντ' αυτού, καθιερώνει ένα αυστηρά **ντετερμινιστικό, συνεχές πληροφοριακό σύστημα** μέσω του **Antoniou Universal Framework (AUF)** και της εκτελεστικής αρχιτεκτονικής **Uriel Nexus**, προσφέροντας απόλυτα προβλέψιμα μαθηματικά μοντέλα από την κλίμακα των στοιχειωδών σωματιδίων έως τις μεγάλες κοσμολογικές δομές και τους άυλους γαλαξίες.
 
 ---
 
-## ⚙️ Τεχνολογική Στοίβα & Υποδομή (`echetlaeus_core`)
+## 📐 2. Η Ακτινοκεντρική Γεωμετρία & Άλγεβρα (CEG) & οι 33 Τόμοι
 
-Το ερευνητικό έργο υλοποιείται μέσω προηγμένου τοπικού περιβάλλοντος ανάπτυξης (Termux/Python/Rust) και περιλαμβάνει:
-* **Γλώσσες & Εργαλεία:** Python, Rust (`echetlaeus_core`), Lean 4 (Mathlib), C++ (firmware ESP32-C3), LaTeX, SQLite.
-* **Υπολογιστική Φυσική & AI:** PyTorch, PennyLane, NumPy, SciPy, Matplotlib, Numba.
-* **Διαχείριση & Αρχειοθέτηση:** Κρυπτογραφική χρονοσήμανση SHA-256, ασφαλής αρχειοθέτηση σε Google Drive και δημοσίευση προπυμπράσεων στο Academia.edu.
+Το θεμέλιο του AUF αποτελεί η **Ακτινοκεντρική Γεωμετρία & Άλγεβρα (CEG v27.0/v28)** και το σύνολο των **33 πρωτογενών τόμων** (οι οποίοι απαρτίζουν αρχικό υλικό 3.600 σελίδων που συνελήφθη γύρω στο 2004–2005) μαζί με πάνω από **400 εξειδικευμένες micro-theories (μικροθεωρίες)**.
 
----
-
-## 📚 Βασικές Δημοσιεύσεις & Μονογραφίες
-
-1. **Quantum Continuum: Antoniou Universal Framework, Vol. 1** (ISBN: `9798188404222`)
-2. **Ακτινοκεντρική Γεωμετρία και Άλγεβρα (CEG)** *(Registration Code: `RC-2026-CEG-FULL-UNIFIED`)*
-3. **Acoustic Shadows in Chaotic Fluids**
-4. **Topological Information Knots (TIK v2.0)**
-5. **The Labyrinth of Consciousness** & **Ο Ασπρόμαυρος Καθρέφτης**
-
----
-
-## 🌐 Επικοινωνία & Ταυτότητα
-
-* **Ερευνητής / Αρχιτέκτονας:** Ελευθέριος Κ. Αντωνίου
-* **ORCID iD:** [0009-0008-0927-5007](https://orcid.org/0009-0008-0927-5007)
-* **Email Επικοινωνίας:** `lefteris.irini.antoniou@gmail.com`
-* **Πλατφόρμα Προπυμπράσεων:** [Academia.edu](https://academia.edu)
+* **Θεμελιώδης Εξίσωση Πληροφοριακού Δυναμικού ($\Phi_I$):**
+  $$\nabla^2 \Phi_I = \kappa \cdot (\rho_I - \bar{\rho}_I)$$
+  *(Η παραπάνω εξίσωση ρυθμίζει την τοπική πυκνότητα φορτίου και συγχρονίζει απρόσκοπτα το πεδίο αναφοράς, εξαλείφοντας τις ιδιομορφίες και τα κενά μετάβασης).*
+* **Βασικοί Άξονες Μικροθεωριών & Μηχανισμών:**
+  * **SIT (Structural Information Turbulence):** Αναλύει τις μη γραμμικές λανθάνουσες δομές και τη ροή πληροφορίας κάτω από συνθήκες υψηλής ενεργειακής πυκνότητας:
+    $$I_{la} = \oint_{\Gamma} (d\mathcal{E}_{HN}/dt) \cdot e^{-\sigma^2/\Lambda(t)} dt$$
+  * **RTIT (Residual Topological Imprint Theory):** Ερμηνεύει τη γεωμετρική μνήμη του χωροχρόνου μέσω υπολειμματικών τοπολογικών αποτυπωμάτων:
+    $$\partial R_{\mu\nu}/\partial t = \mathcal{D} \nabla^2 R_{\mu\nu} - (1/\Gamma(\rho)) R_{\mu\nu} + \xi [J_\mu \cdot J_\nu]$$
+  * **QNCT (Quantum Noise Crystallization Theory):** Περιγράφει πώς ο φαινομενικός κβαντικός θόρυβος κρυσταλλώνεται σε σταθερές δομές πληροφορίας:
+    $$\Omega_{jk} = \alpha \cdot (\hbar/k_B T) \cdot [\nabla_j \Phi_N \cdot \nabla_k \Phi_N] \cdot e^{\Delta I/I_c}$$
+  * **TIK v2.0 (Topological Information Knots):** Μελέτη τοπολογικών κόμβων πληροφορίας και ροών μη ισορροπημένης συνεχούς μηχανικής σε χαοτικά ρευστά.
+  * **MasterUTGFEngine (Universal Topological Gauge Fluidity):** Συνδυασμός ολογραφικής κρίσιμης ρευστότητας, τοπολογικής διάχυσης πληροφορίας και μη αβεβαιων πεδίων βαθμίδας.
 
 ---
-<p align="center">
-  <i>"Exact Deterministic Mechanics over Stochastic Approximations."</i>
-</p>
+
+## 🤖 3. Αρχιτεκτονική AI, Συστήματα, Ρομποτική & Νανορομποτική
+
+Το σύστημα διαθέτει προηγμένους, αυτόνομους τοπικούς πράκτορες και αρχιτεκτονικές εκτέλεσης (`echetlaeus_core`, Termux/Python/Rust/Lean 4):
+
+* **Autonomous AI Agents & Security Core:**
+  * **Έχετλεος:** Κεντρικός πράκτορας ελέγχου και διαχείρισης ροής εντολών.
+  * **Τάλως:** Αρχιτεκτονικό σύστημα αυτόνομου συντονισμού και προστασίας υλικού.
+  * **Ύδρα & Κέρβερος:** Πρωτόκολλα πολυεπίπεδης επαλήθευσης, zero-trust boot και
